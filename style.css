@@ -292,6 +292,11 @@ section.menu, section.title, section.skills, section.hobbies, section.experience
     cursor: pointer;
 }
 
+.experience__img{
+    width: 752px;
+    height: 406px;
+}
+
 
 
 .formcontato{
