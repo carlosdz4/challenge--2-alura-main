@@ -140,6 +140,11 @@ color: #464646;
 
 }
 
+.about__container img{
+    width: 140px;
+    height: 52px;
+}
+
 .title__network{
     display: flex;
     gap: 25px;
