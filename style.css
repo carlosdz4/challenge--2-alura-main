@@ -311,10 +311,7 @@ section.menu, section.title, section.skills, section.hobbies, section.experience
     padding: 64px;
     Gap:16px;
 }
-.formcontato__img{
 
-   
-}
 
 .formcontato__form{
     display: flex;
@@ -361,15 +358,14 @@ section.footer{
     text-align: center;
 }
 
-/* Vamos a desafiarnos trabajando con responsividad?
-Utiliza las referencias de los breakpoints @media abajo */
 
 
 
-/*Tablet*/
+
+
 @media (max-width: 980px) {
 
-/* Menú */
+
 
 .menu__list{
     display: none;
@@ -399,9 +395,6 @@ opacity: 0px;
    
 }
 
-/*title*/
-
-/*Skills*/
 
 .skills__line{
     display: flex;
@@ -414,7 +407,7 @@ opacity: 0px;
 }
 
 
-/*Hobbies*/
+
 
 .hobbies__line{
     display: flex;
@@ -475,16 +468,14 @@ opacity: 0px;
 }
 
 
-/*Formación Académica*/
 
-/*Experiencia Profesional*/
 
 }
 
-/*Mobile*/
+
 @media (max-width: 430px) {
 
-/*Menu*/
+
 .menu{
     font-size: 12px;
 }
@@ -501,11 +492,7 @@ opacity: 0px;
 
 
 
-/*Titulo*/
 
-/*Sección sobre mi*/
-
-/*Skills*/
 
 .skills__line , .hobbies__line {
     display: flex;
@@ -513,13 +500,6 @@ opacity: 0px;
     align-items: center;
 }
 
-/*Hobbies*/
- 
-/*Formación Académica*/
-
-/*Experiencia Profesional*/
-
- /*Contacto*/
 
  #formacion, #contacto, #sobre-mi {
     position:initial; 
@@ -529,6 +509,6 @@ opacity: 0px;
     background-color: #EAF2FD;
 }
 
-/*Footer*/
+
 
 }
